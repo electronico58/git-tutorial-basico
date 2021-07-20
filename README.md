@@ -17,3 +17,8 @@ Este es el cuarto cambio realizado el lunes 19 de julio del 2021 a las 18:15 hrs
 ** Este texto fue agregado para demostrar
 ** el uso de github desktop
 *******************************************
+
+..............................................
+  Nuevo cambio realizado el martes 20 de
+  julio del 2021 en el "Text Editor"
+..............................................
