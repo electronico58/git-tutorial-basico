@@ -15,7 +15,7 @@ Este es el cuarto cambio realizado el lunes 19 de julio del 2021 a las 18:15 hrs
 
 *******************************************
 ** Este texto fue agregado para demostrar
-** el uso de github desktop
+** el uso de github desktopT
 *******************************************
 
 ..............................................
@@ -24,5 +24,5 @@ Este es el cuarto cambio realizado el lunes 19 de julio del 2021 a las 18:15 hrs
 ..............................................
 
 Cambio desde Visual Studio Code - ejemplo de push
-cambio 4
+cambio 4 -
 
