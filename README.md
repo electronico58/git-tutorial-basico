@@ -22,3 +22,6 @@ Este es el cuarto cambio realizado el lunes 19 de julio del 2021 a las 18:15 hrs
   Nuevo cambio realizado el martes 20 de
   julio del 2021 en el "Text Editor"
 ..............................................
+
+Cambio desde Visual Studio Code
+
