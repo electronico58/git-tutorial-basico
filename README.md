@@ -26,3 +26,7 @@ Este es el cuarto cambio realizado el lunes 19 de julio del 2021 a las 18:15 hrs
 Cambio desde Visual Studio Code - ejemplo de push
 cambio 4 -
 
+// *************************************************
+// Nuevo cambio realizado desde Visual Studio Code
+// al archivo README.md el 24-julio-2021 -
+// *************************************************
