@@ -42,3 +42,8 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
  hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
  Cambio con sesión de GitHub CERRADA
  hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+  Otro cambio desde VSC 706 del 24072021
+  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+  
